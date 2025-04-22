@@ -1,3 +1,4 @@
+[Website](https://cwittens.github.io/my-ai-code-of-conduct/)
 # My AI Code of Conduct or
 
 # How I Use AI in My Academic Work
