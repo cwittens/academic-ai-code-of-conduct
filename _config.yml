@@ -1,0 +1,13 @@
+title: "My AI Code of Conduct / How I Use AI in My Academic Work"
+description: "A code of conduct."
+theme: minima
+# remote_theme: pages-themes/cayman@v0.2.0
+# plugins:
+# - jekyll-remote-theme 
+
+sass:
+  style: compressed
+
+# override Minima's default stylesheet
+minima:
+  skin: null
