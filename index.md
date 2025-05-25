@@ -9,6 +9,12 @@ layout: default
 
 as a physicist and computational scientist. By Collin Wittenstein.
 
+# Preamble
+
+At the end of my mathematics [bachelor thesis](https://github.com/cwittens/Simulation-of-the-Rattleback/blob/main/Bachelorarbeit.pdf), I included a whole chapter documenting my usage of AI tools during my work on the thesis. As of November 2024, a slightly adjusted and shortened version of this documentation now serves as an official example for declaring AI use in theses at the [Institute of Mathematics at the Johannes Gutenberg University of Mainz](https://www.studium.fb08.uni-mainz.de/files/2024/11/Eigenstaendigkeitserklaerung_Mathe_Muster.pdf).
+
+Since I don't want to write such detailed chapters for every academic work but still want to maintain transparency regarding my AI use, I created this Code of Conduct as a reference document that I can link to in my academic projects.
+
 # Tools I Currently Use
 
 - Large Language Models: Claude, ChatGPT
@@ -51,6 +57,6 @@ I keep GitHub Copilot active during coding sessions primarily as an enhanced aut
 
 **Example**: For my Bachelor's thesis in mathematics, I needed to translate a quite long algebraic expression from Mathematica into Julia code. As it wouldn't have been possible to check this translation, I did not use LLMs for this problem.  
 
-*This code of conduct was last updated in April 2025. It represents my personal commitment to ethical AI use in academic contexts. I welcome feedback and discussion regarding both my principles and how else to efficiently and supplementally use AI in academia.*
+*This code of conduct was last updated in May 2025 with AI assistance for writing and editing, following the same principles outlined within. It represents my personal commitment to ethical AI use in academic contexts. I welcome feedback and discussion regarding both my principles and how else to efficiently and supplementally use AI in academia.*
 
 **Signed:** Collin Wittenstein
