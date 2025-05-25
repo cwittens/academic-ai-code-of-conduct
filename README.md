@@ -1,4 +1,4 @@
-# [Website version](https://cwittens.github.io/my-ai-code-of-conduct/)
+# [Website version](https://cwittens.github.io/academic-ai-code-of-conduct/)
 
 # My AI Code of Conduct or
 
