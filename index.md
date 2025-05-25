@@ -57,6 +57,8 @@ I keep GitHub Copilot active during coding sessions primarily as an enhanced aut
 
 **Example**: For my Bachelor's thesis in mathematics, I needed to translate a quite long algebraic expression from Mathematica into Julia code. As it wouldn't have been possible to check this translation, I did not use LLMs for this problem.  
 
+# About This Document
+
 *This code of conduct was last updated in May 2025 with AI assistance for writing and editing, following the same principles outlined within. It represents my personal commitment to ethical AI use in academic contexts. I welcome feedback and discussion regarding both my principles and how else to efficiently and supplementally use AI in academia.*
 
 **Signed:** Collin Wittenstein
