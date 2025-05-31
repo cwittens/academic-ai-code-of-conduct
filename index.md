@@ -15,6 +15,8 @@ At the end of my mathematics [bachelor thesis](https://github.com/cwittens/Simul
 
 Since I don't want to write such detailed chapters for every academic work but still want to maintain transparency regarding my AI use, I created this Code of Conduct as a reference document that I can link to in my academic projects.
 
+---
+
 # Tools I Currently Use
 
 - Large Language Models: Claude, ChatGPT
@@ -47,6 +49,8 @@ I keep GitHub Copilot active during coding sessions primarily as an enhanced aut
 
 **Example**: While the typical use of Copilot for coding tasks should be clear, I also use it when writing LaTeX—particularly for equations. For instance, after typing out one expression, Copilot can often suggest the LaTeX code for a related or rearranged version. This isn’t mathematically hard, but it saves time—especially with long or annotated variable names. For more involved transformations, however, Copilot often fails and I fall back on manual input.
 
+---
+
 # Boundaries
 
 ### I do **not** use AI for
@@ -57,8 +61,12 @@ I keep GitHub Copilot active during coding sessions primarily as an enhanced aut
 
 **Example**: For my Bachelor's thesis in mathematics, I needed to translate a quite long algebraic expression from Mathematica into Julia code. As it wouldn't have been possible to check this translation, I did not use LLMs for this problem.  
 
+---
+
 # About This Document
 
 *This code of conduct was last updated in May 2025 with AI assistance for writing and editing, following the same principles outlined within. It represents my personal commitment to ethical AI use in academic contexts. I welcome feedback and discussion regarding both my principles and how else to efficiently and supplementally use AI in academia.*
 
 **Signed:** Collin Wittenstein
+
+---
